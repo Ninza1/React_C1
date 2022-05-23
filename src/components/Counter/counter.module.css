@@ -1,0 +1,13 @@
+.counter {
+  /* TODO */
+  font-size: 20px;
+  gap: 20px;
+  padding: 3px;
+  /* border: 1px solid grey; */
+ 
+}
+.button{
+  padding: 10px;
+  font: 20px;
+  border: 8px;
+}
